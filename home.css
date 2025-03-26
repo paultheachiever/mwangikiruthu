@@ -199,6 +199,13 @@ border: 0%;
     object-fit: cover;
     border-radius: 10px;
 }
+.init img {
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
 
 
 .services{
